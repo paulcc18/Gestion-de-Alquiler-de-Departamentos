@@ -1,6 +1,7 @@
 # Gestion-de-Arriendos
-# DIAGRAMA NIVEL 0
+Crear una aplicación digital que ayude a los estudiantes universitarios a encontrar y gestionar alojamiento asequible, seguro y cercano a sus universidades. La aplicación centralizará las opciones de alquiler, facilitará la comparación de alternativas y ofrecerá una experiencia de usuario optimizada con herramientas de búsqueda avanzada, filtros personalizados y contacto directo con propietarios. Además, incluirá funciones de calificación y comentarios para que los estudiantes tomen decisiones informadas, la plataforma tendrá una interfaz visual atractiva e intuitiva, accesible desde cualquier dispositivo.
 
+# DIAGRAMA NIVEL 0
 ![]()<img width="451" alt="Imagen1" src="https://github.com/user-attachments/assets/7069be2f-ccf2-4253-9ade-fde2c5d2dcf5">
 
 # DIAGRAMA NIVEL 1
