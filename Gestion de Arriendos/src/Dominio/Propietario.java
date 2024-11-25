@@ -4,7 +4,9 @@ public class Propietario extends Usuario {
     private int numeroPropiedades;
     private String propiedades;
 
-    public Propietario(int numeroPropiedades, String propiedades) {}
+    public Propietario() {
+
+    }
 
     public Propietario(String nombre, String apellido, String correo, String contraseña, String fechaRegistro, int numeroPropiedades, String propiedades) {
         super(nombre, apellido, correo, contraseña, fechaRegistro);
