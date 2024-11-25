@@ -10,6 +10,8 @@ La aplicación centralizará las opciones de alquiler, facilitará la comparaci�
 
 # Diagrama de Casos de Uso - Nivel 1
 ![Imagen2](https://github.com/user-attachments/assets/5c9b207a-0353-473b-9278-fcbdc11ec7ae)
+![imagen2](https://github.com/user-attachments/assets/5fda5c84-4fe3-492a-b972-5e51ba77c324)
+
 
 # Diagrama Conceptual
 ![Imagen3](https://github.com/user-attachments/assets/c16f861b-678d-44f7-9429-49d9efdd046d)
