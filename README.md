@@ -1,4 +1,4 @@
-# Gestion-de-Arriendos
+# Gestion de Alquiler de Departamentos
 Crear una aplicación digital que ayude a los estudiantes universitarios a encontrar y gestionar alojamiento asequible, seguro y cercano a sus universidades. La aplicación centralizará las opciones de alquiler, facilitará la comparación de alternativas y ofrecerá una experiencia de usuario optimizada con herramientas de búsqueda avanzada, filtros personalizados y contacto directo con propietarios. Además, incluirá funciones de calificación y comentarios para que los estudiantes tomen decisiones informadas, la plataforma tendrá una interfaz visual atractiva e intuitiva, accesible desde cualquier dispositivo.
 
 # DIAGRAMA NIVEL 0
