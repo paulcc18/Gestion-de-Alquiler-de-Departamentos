@@ -1,5 +1,5 @@
 # Gestion de Alquiler de Departamentos
-Integrantes: Paul Cumbal, Cristian Espinosa, Carlos Chiluisa, David López y & Nicólas 
+* Integrantes: Paul Cumbal, Cristian Espinosa, Carlos Chiluisa, David López y & Nicólas 
 Objetivo: Crear una aplicación digital que ayude a los estudiantes universitarios a encontrar y gestionar alojamiento asequible, seguro y cercano a sus universidades. 
 La aplicación centralizará las opciones de alquiler, facilitará la comparación de alternativas y ofrecerá una experiencia de usuario optimizada con herramientas de búsqueda avanzada, filtros personalizados y contacto directo con propietarios.
 
