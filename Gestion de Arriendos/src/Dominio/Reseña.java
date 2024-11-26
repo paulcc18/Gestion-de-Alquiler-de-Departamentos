@@ -5,14 +5,17 @@ public class Reseña {
     private String comentario;
     private String fecha;
 
+    // Constructor por defecto
     public Reseña() {}
 
+    // Constructor con parámetros
     public Reseña(String nombreUsuario, String comentario, String fecha) {
         this.nombreUsuario = nombreUsuario;
         this.comentario = comentario;
         this.fecha = fecha;
     }
 
+    // Métodos getter y setter
     public String getNombreUsuario() {
         return nombreUsuario;
     }
@@ -37,4 +40,3 @@ public class Reseña {
         this.fecha = fecha;
     }
 }
-

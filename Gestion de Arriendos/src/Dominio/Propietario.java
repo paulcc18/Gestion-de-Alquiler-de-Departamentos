@@ -4,8 +4,9 @@ public class Propietario extends Usuario {
     private int numeroPropiedades;
     private String propiedades;
 
-    public Propietario() {
-
+    public Propietario(int numeroPropiedades, String propiedades) {
+        this.numeroPropiedades = numeroPropiedades;
+        this.propiedades = propiedades;
     }
 
     public Propietario(String nombre, String apellido, String correo, String contraseña, String fechaRegistro, int numeroPropiedades, String propiedades) {
